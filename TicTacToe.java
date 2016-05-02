@@ -1,4 +1,3 @@
-
 /**
  * Simulates the 3 by 3 grid game Tic Tac Toe.
  * 
@@ -130,11 +129,11 @@ public class TicTacToe
                 s += board[r][c];
                 if (c != 2)
                 {
-                    s += "";
+                    s += " ";
                 }
             }
             s += "|\n";
         }
         return s;
     }
-} 
+}
