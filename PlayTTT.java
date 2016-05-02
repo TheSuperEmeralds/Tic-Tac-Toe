@@ -1,6 +1,6 @@
 import java.util.Scanner;
 /**
- * Play Tic Tac Toe!
+ * Play Tic Tac Toe with a friend!
  * 
  * @author Matthew Treece 
  * @version 1.0
